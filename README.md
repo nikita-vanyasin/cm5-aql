@@ -1,5 +1,5 @@
 # CodeMirror AQL mode
-Legacy [CodeMirror5](https://codemirror.net/5/) mode for [ArangoDB](https://arangodb.com/) Query Language (AQL).
+Legacy [CodeMirror5](https://codemirror.net/5/) mode for [ArangoDB](https://www.arangodb.com/docs/stable/aql/) Query Language (AQL).
 
 ## How to use
 ### Basic use
