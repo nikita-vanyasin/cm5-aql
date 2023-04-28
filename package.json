@@ -1,0 +1,25 @@
+{
+  "name": "cm5-aql",
+  "version": "1.0.0",
+  "description": "A CodeMirror mode for ArangoDB Query Language (AQL)",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [
+  	"codemirror5",
+    "codemirror-mode",
+    "arangodb",
+    "aql",
+    "arangodb-ql"
+  ],
+  "author": "Nikita Vaniasin",
+  "repository": {
+    "url": "git@github.com:nikita-vanyasin/cm5-aql.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikita-vanyasin/cm5-aql/issues"
+  },
+  "license": "MIT"
+}
